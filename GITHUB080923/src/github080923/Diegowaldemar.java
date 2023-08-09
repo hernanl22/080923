@@ -10,6 +10,7 @@ package github080923;
  * @author diego
  */
 public class Diegowaldemar {
+    private String nombre;
     
     
 }
