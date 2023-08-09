@@ -10,5 +10,5 @@ package github080923;
  * @author Usuario
  */
 public class lauramarciliano {
-    
+    public String nombre;
 }
