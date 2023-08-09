@@ -10,5 +10,6 @@ package github080923;
  * @author Administrador
  */
 public class hernanl22 {
-    
+    public String nombre;
+    public int edad;
 }
