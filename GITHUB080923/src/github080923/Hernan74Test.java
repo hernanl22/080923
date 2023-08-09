@@ -12,4 +12,5 @@ package github080923;
 public class Hernan74Test {
     public int edad;
     public String nombre;
+    public double peso;
 }
